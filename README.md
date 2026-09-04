@@ -1,17 +1,17 @@
-# Party Marker Party List Plugin Repository
+# AinaSnow FFXIV Dalamud Plugin Repository
 
 [中文](#中文) | [English](#english)
 
 ## 中文
 
-这是 `Party Marker Party List` 的 Dalamud 自定义插件仓库清单。
+这是 AinaSnow 的 Dalamud 自定义插件仓库清单，后续可以在同一个 `pluginmaster.json` 中集中发布多个插件。
 
 ### 添加仓库
 
 把下面的地址复制到 Dalamud 设置中的“自定义插件仓库”：
 
 ```text
-https://raw.githubusercontent.com/AinaSnow/PartyMarkerPartyListRepo/main/pluginmaster.json
+https://raw.githubusercontent.com/AinaSnow/FFXIV-Dalamud-Plugins/main/pluginmaster.json
 ```
 
 刷新仓库后，即可在插件安装器中找到并安装 `Party Marker Party List`。
@@ -27,15 +27,15 @@ https://raw.githubusercontent.com/AinaSnow/PartyMarkerPartyListRepo/main/pluginm
 
 ## English
 
-This repository contains the Dalamud custom plugin repository manifest for
-`Party Marker Party List`.
+This repository contains AinaSnow's Dalamud custom plugin repository manifest.
+Multiple plugins can be distributed from the same `pluginmaster.json` in the future.
 
 ### Add the repository
 
 Copy the following URL into the “Custom Plugin Repositories” section of Dalamud settings:
 
 ```text
-https://raw.githubusercontent.com/AinaSnow/PartyMarkerPartyListRepo/main/pluginmaster.json
+https://raw.githubusercontent.com/AinaSnow/FFXIV-Dalamud-Plugins/main/pluginmaster.json
 ```
 
 After refreshing the repository list, `Party Marker Party List` will be available in the plugin installer.
