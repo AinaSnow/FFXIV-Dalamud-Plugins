@@ -1,0 +1,20 @@
+[
+  {
+    "Author": "AinaSnow",
+    "Name": "Party Marker Party List",
+    "Punchline": "显示队伍成员当前的头顶标记。",
+    "Description": "将队伍成员头顶的原生目标标记同步显示在小队列表职业图标左侧。只读显示，不会自动施加或修改标记。",
+    "Changelog": "v0.1.0：首次公开发布。",
+    "InternalName": "PartyMarkerPartyList",
+    "AssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/AinaSnow/PartyMarkerPartyList",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/AinaSnow/PartyMarkerPartyList/releases/download/v0.1.0/PartyMarkerPartyList-v0.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/AinaSnow/PartyMarkerPartyList/releases/download/v0.1.0/PartyMarkerPartyList-v0.1.0.zip",
+    "Tags": [ "UI", "Party" ],
+    "LoadRequiredState": 0,
+    "CanUnloadAsync": false,
+    "SupportsProfiles": true
+  }
+]
