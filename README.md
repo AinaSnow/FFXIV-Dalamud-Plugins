@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/AinaSnow/FFXIV-Dalamud-Plugins/main/pluginmast
 ### 说明
 
 - `pluginmaster.json` 遵循 Dalamud 自定义插件仓库格式。
-- 当前条目指向 `PartyMarkerPartyList` 的 `v0.1.0` GitHub Release 压缩包。
+- 当前条目指向 `PartyMarkerPartyList` 的 `v0.1.1` GitHub Release 压缩包。
 - 后续发布新版本时，需要同步更新 `AssemblyVersion`、`Changelog` 和下载地址。
 - 第三方插件仓库不会经过 Dalamud 官方插件仓库审核，请确认你信任该仓库后再添加。
 
@@ -45,6 +45,6 @@ Source repository: [AinaSnow/PartyMarkerPartyList](https://github.com/AinaSnow/P
 ### Notes
 
 - `pluginmaster.json` follows the Dalamud custom plugin repository format.
-- The current entry points to the `v0.1.0` GitHub Release archive of `PartyMarkerPartyList`.
+- The current entry points to the `v0.1.1` GitHub Release archive of `PartyMarkerPartyList`.
 - Future releases must update `AssemblyVersion`, `Changelog`, and the download URLs.
 - Third-party repositories are not reviewed by the official Dalamud plugin repository. Add this repository only if you trust it.
