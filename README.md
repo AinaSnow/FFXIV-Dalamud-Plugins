@@ -1,50 +1,31 @@
 # AinaSnow FFXIV Dalamud Plugin Repository
 
-[中文](#中文) | [English](#english)
-
-## 中文
-
-这是 AinaSnow 的 Dalamud 自定义插件仓库清单，后续可以在同一个 `pluginmaster.json` 中集中发布多个插件。
-
-### 添加仓库
-
-把下面的地址复制到 Dalamud 设置中的“自定义插件仓库”：
-
-```text
-https://raw.githubusercontent.com/AinaSnow/FFXIV-Dalamud-Plugins/main/pluginmaster.json
-```
-
-刷新仓库后，即可在插件安装器中找到并安装 `Party Marker Party List`。
-
-源码仓库：[AinaSnow/PartyMarkerPartyList](https://github.com/AinaSnow/PartyMarkerPartyList)
-
-### 说明
-
-- `pluginmaster.json` 遵循 Dalamud 自定义插件仓库格式。
-- 当前条目指向 `PartyMarkerPartyList` 的 `v0.1.1` GitHub Release 压缩包。
-- 后续发布新版本时，需要同步更新 `AssemblyVersion`、`Changelog` 和下载地址。
-- 第三方插件仓库不会经过 Dalamud 官方插件仓库审核，请确认你信任该仓库后再添加。
-
 ## English
 
-This repository contains AinaSnow's Dalamud custom plugin repository manifest.
-Multiple plugins can be distributed from the same `pluginmaster.json` in the future.
-
-### Add the repository
-
-Copy the following URL into the “Custom Plugin Repositories” section of Dalamud settings:
+Add this URL in Dalamud settings → Experimental → Custom plugin repositories, then refresh the plugin installer:
 
 ```text
 https://raw.githubusercontent.com/AinaSnow/FFXIV-Dalamud-Plugins/main/pluginmaster.json
 ```
 
-After refreshing the repository list, `Party Marker Party List` will be available in the plugin installer.
+| Plugin | Version | Project |
+| --- | --- | --- |
+| Party Marker Party List | 0.1.1 | [Source and releases](https://github.com/AinaSnow/PartyMarkerPartyList) |
+| XIVChatNext Server | 1.7.15 | [Source and releases](https://github.com/AinaSnow/XIVChatNext) · [Client guide](https://ainasnow.github.io/XIVChatNext-site/guide.html) |
 
-Source repository: [AinaSnow/PartyMarkerPartyList](https://github.com/AinaSnow/PartyMarkerPartyList)
+XIVChat Next pairs with desktop client 1.3.6. Its install, update and testing download links point to the same stable release. New plugin configurations default to English.
 
-### Notes
+This is a third-party repository. Its entries are not reviewed by the official Dalamud plugin repository. Future releases update the version, changelog and download links in `pluginmaster.json`.
 
-- `pluginmaster.json` follows the Dalamud custom plugin repository format.
-- The current entry points to the `v0.1.1` GitHub Release archive of `PartyMarkerPartyList`.
-- Future releases must update `AssemblyVersion`, `Changelog`, and the download URLs.
-- Third-party repositories are not reviewed by the official Dalamud plugin repository. Add this repository only if you trust it.
+## 简体中文
+
+在 Dalamud 设置 → 实验性 → 自定义插件仓库中添加上方地址，再刷新插件安装器。
+
+| 插件 | 版本 | 项目 |
+| --- | --- | --- |
+| Party Marker Party List | 0.1.1 | [源码与发布](https://github.com/AinaSnow/PartyMarkerPartyList) |
+| XIVChatNext Server | 1.7.15 | [源码与发布](https://github.com/AinaSnow/XIVChatNext) · [客户端指南](https://ainasnow.github.io/XIVChatNext-site/zh/guide.html) |
+
+XIVChat Next 请搭配 1.3.6 客户端使用。安装、更新和测试下载地址均指向同一正式版本，插件新配置默认英文。
+
+这是第三方插件仓库，条目未经 Dalamud 官方插件仓库审核。后续发布在 `pluginmaster.json` 中同步版本、更新说明和下载地址。
