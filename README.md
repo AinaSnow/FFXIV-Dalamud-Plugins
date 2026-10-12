@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/AinaSnow/FFXIV-Dalamud-Plugins/main/pluginmast
 
 | Plugin | Version | Project |
 | --- | --- | --- |
-| Party Marker Party List | 0.1.1 | [Source and releases](https://github.com/AinaSnow/PartyMarkerPartyList) |
+| Party Marker Party List | 0.2.0 | [Source and releases](https://github.com/AinaSnow/PartyMarkerPartyList) |
 | XIVChatNext Server | 1.7.15 | [Source and releases](https://github.com/AinaSnow/XIVChatNext) · [Client guide](https://ainasnow.github.io/XIVChatNext-site/guide.html) |
 
 XIVChat Next pairs with desktop client 1.3.7. Its install, update and testing download links point to the same stable release. New plugin configurations default to English.
@@ -23,7 +23,7 @@ This is a third-party repository. Its entries are not reviewed by the official D
 
 | 插件 | 版本 | 项目 |
 | --- | --- | --- |
-| Party Marker Party List | 0.1.1 | [源码与发布](https://github.com/AinaSnow/PartyMarkerPartyList) |
+| Party Marker Party List | 0.2.0 | [源码与发布](https://github.com/AinaSnow/PartyMarkerPartyList) |
 | XIVChatNext Server | 1.7.15 | [源码与发布](https://github.com/AinaSnow/XIVChatNext) · [客户端指南](https://ainasnow.github.io/XIVChatNext-site/zh/guide.html) |
 
 XIVChat Next 请搭配 1.3.7 客户端使用。安装、更新和测试下载地址均指向同一正式版本，插件新配置默认英文。
